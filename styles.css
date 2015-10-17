@@ -1,0 +1,89 @@
+body {
+	font-family: sans-serif;
+	color: gray;
+	background: #675153;
+}
+
+header {
+	text-align: center;
+	background: #515367;
+	color: #F6DCFC;
+	font-family: sans-serif;
+	border: 3px solid #536751;
+	padding-top: 0px;
+	padding-bottom: 20px;
+}
+
+p {
+	color: #C79DD1;
+}
+
+h2 {
+	color: #F6DCFC;
+}
+
+img {
+	padding-top: 10px;
+	border-radius: 50%;
+}
+
+a { 
+	text-decoration: none;
+	color: #C79DD1;
+	font-family: sans-serif;
+}
+
+#h2-websites { 
+	text-align: center;
+}
+
+.websites {
+padding: 0px;
+text-align: center;
+}
+
+ul.websites li {
+    list-style: none;
+    display: inline-block;
+}
+
+.websites a {
+  background: #536751;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 24px;
+  display: block;
+}
+.websites a:hover {
+  background: #769173;
+}
+.stacked {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 0px;
+	color: #C79DD1;
+}
+
+.contact {
+	text-align: center;
+}
+.contact h2 {
+	border: 2px solid #536751;
+	background-color: #515367;
+	margin: 0px;
+	padding: 15px;
+}
+#contact-me img{
+	width: 30px;
+}
+
+ #contact-me { 
+ 	background-color: #536751;
+	padding: 0px;
+	color: #C79DD1;
+	background: url(images/dark_embroidery.png);
+	border-right: 2px solid #536751;
+	border-left: 2px solid #536751;
+	border-bottom: 2px solid #536751;}
